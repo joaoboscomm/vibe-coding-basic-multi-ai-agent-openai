@@ -55,7 +55,6 @@ A multi-agent AI customer support system built with Django, LangChain, and OpenA
 
 1. **Clone and configure**:
    ```bash
-   cd turbo-ai-vibe-coding-study
    cp env.example .env
    # Edit .env and add your OPENAI_API_KEY
    ```
